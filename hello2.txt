@@ -1,2 +1,2 @@
 This is my second file.
-I am adding content.
+Add content.
